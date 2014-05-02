@@ -1,4 +1,4 @@
 blog
 ====
 
-ustccjw's blog base on github issues 
+ustccjw's blog based on github issues 
